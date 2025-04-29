@@ -11,7 +11,6 @@
 - 🛠️ Tech Stack: Node.js, Express, NestJS, .NET Core, MongoDB, SQL Server  
 - 🧠 Also familiar with Docker, Microservices, gRPC, Git  
 - 🎯 Career goal: Become a skilled Backend Developer and grow into Full-Stack  
-- 🌱 Currently learning system design and Kubernetes basics
 
 ---
 
