@@ -18,11 +18,10 @@
 
 Here are a few personal/backend projects I’ve worked on:
 
-- 🛠 **Club Repair Management** – Internal tool for managing PC support requests (Node.js + MongoDB)  
-- 🍽 **Restaurant Ordering System** – Microservice-based backend for food ordering (NestJS)  
-- 🏠 **Automated Boarding House Management** – Smart-room rental management system (Java Spring)  
+- 🛠 **IT-Center** – Internal website for managing PC support requests and managing member (Node.js + ExpressJS + MongoDB)
+[![IT-Center](https://github-readme-stats.vercel.app/api/pin/?username=MaLuongKhanh&repo=NodejsProject&theme=merko )](https://github.com/MaLuongKhanh/NodejsProject) 
 - 🏘 **Real Estate Web Platform** – Backend for listing & searching properties (Spring Microservices)
-[![Proptech-Platform](https://github-readme-stats.vercel.app/api/pin/?username=MaLuongKhanh&repo=proptech-platform&theme=tokyonight)](https://github.com/MaLuongKhanh/Proptech-Platform)
+[![Proptech-Platform](https://github-readme-stats.vercel.app/api/pin/?username=MaLuongKhanh&repo=proptech-platform&theme=blue-green)](https://github.com/MaLuongKhanh/Proptech-Platform)
  
 
 👉 *More on my repositories below!*
@@ -38,9 +37,8 @@ Here are a few personal/backend projects I’ve worked on:
 
 ### 📫 How to reach me
 
-- ✉️ Email: truongnguyenhuu610@gmail.com  
+- ✉️ Email: maluongkhanh9@gmail.com  
 - 📱 Phone: 0913127856  
-- 🌐 [LinkedIn – optional if you have one]  
 
 ---
 
