@@ -21,7 +21,9 @@ Here are a few personal/backend projects I’ve worked on:
 - 🛠 **Club Repair Management** – Internal tool for managing PC support requests (Node.js + MongoDB)  
 - 🍽 **Restaurant Ordering System** – Microservice-based backend for food ordering (NestJS)  
 - 🏠 **Automated Boarding House Management** – Smart-room rental management system (Java Spring)  
-- 🏘 **Real Estate Web Platform** – Backend for listing & searching properties (Spring Microservices)  
+- 🏘 **Real Estate Web Platform** – Backend for listing & searching properties (Spring Microservices)
+[![Proptech-Platform](https://github-readme-stats.vercel.app/api/pin/?username=MaLuongKhanh&repo=proptech-platform&theme=tokyonight)](https://github.com/MaLuongKhanh/Proptech-Platform)
+ 
 
 👉 *More on my repositories below!*
 
