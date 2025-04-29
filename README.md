@@ -27,6 +27,13 @@ Here are a few personal/backend projects I’ve worked on:
 
 ---
 
+## 📊 GitHub Stats
+
+![Ma Luong Khanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaLuongKhanh&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaLuongKhanh&layout=compact&theme=tokyonight)
+
+---
+
 ### 📫 How to reach me
 
 - ✉️ Email: truongnguyenhuu610@gmail.com  
